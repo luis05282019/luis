@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Luis Jr Cabanlong</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap-4.3.1.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <hr>
+      <div class="row">
+        <div class="col-6">
+          <h1>Luis Jr Cabanlong</h1>
+        </div>
+        <div class="col-6">
+          <p class="text-right"><a href="">Download my Resume</a></p>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-md-8 col-sm-12">
+          <div class="media">
+            <img class="mr-3" src="images/garrry.jpg" alt="Generic placeholder image">
+            <div class="media-body">
+              <h5 class="mt-0">Objectives</h5>
+              <p>To obtain a responsible and challenging role in the    field where my education and work experience would have valuable application</p>
+				
+            </div>
+          </div>
+			<div class="qualifications">
+				<h5 class="mt-0">Qualifications</h5>
+				<p>as an it admin and quality assurance for synchronic systems corporation, that is engaged in electronic document management services, manpower, facility and service provider in Philippines. with the long experience and exposure in synchronic systems corporation in the field of “it officer, supervisor and quality assurance&quot;, i can claim that my experience in the field for it industry is the most competent and modest external preference for most businesses that demand support in information technology field, as well as contributing new ideas that drive company growth.</p>
+			</div>
+        </div>
+        <div class="col-md-4 col-sm-12">
+          <div class="row justify-content-md-around m-1">
+            <address>
+            <strong>Luis Jr Cabanlong </strong>
+              <br>
+              City Tower Real Estate Flat 102
+            <br>Burjuman, Dubai<br>
+              <abbr title="Phone">Phone number:</abbr>+971529710937<br>
+              <a href="mailto:#">gariluis060908@gmail.com</a>
+            </address>
+          </div>
+        </div>
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col-md-6 col-sm-12">
+          <h2>Education</h2>
+          <hr>
+          <div class="row">
+            <div class="col-6">
+              <h4>Baguio Colleges of Technology</h4>
+            </div>
+            <div class="col-6">
+              <h5 class="text-right"><span aria-hidden="true"></span>2006-2010</h5>
+            </div>
+          </div>
+          <h5><span class="badge badge-secondary">Bachelors</span></h5>
+          <p>Major in BS Information Technology</p>
+          <div class="row">
+            <div class="col-6">
+              <h4>University of Cordilleras</h4>
+            </div>
+            <div class="col-6">
+              <h5 class="text-right"><span aria-hidden="true"></span> 2000 - 2004</h5>
+            </div>
+          </div>
+          <h5><span class="badge badge-secondary">Bachelors</span></h5>
+          <p>Units earned in BS Computer Science (Graduating)</p>
+        </div>
+        <div class="col-md-6 col-sm-12">
+          <h2>Skill Set</h2>
+          <hr>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%"> HTML</div>
+          </div>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 80%"> CSS</div>
+          </div>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%"> JAVASCRIPT</div>
+          </div>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%"> PHP</div>
+          </div>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%"> WORDPRESS</div>
+          </div>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%"> PHOTOSHOP</div>
+          </div>
+          <div class="progress mt-4">
+            <div class="progress-bar bg-success" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%"> LIGHTROOM</div>
+          </div>
+        </div>
+      </div>
+      <hr>
+      <h2>Work Experience</h2>
+      <hr>
+      <div class="row">
+        <div class="col-md-6 col-sm-12">
+          <div class="row">
+            <div class="col-5">
+              <h4>Emitech Building Mechanical Engeering Services LLC</h4>
+              <p>(Formerly Reaaia Building Maintenance LLC)</p>
+            </div>
+            <div class="col-6">
+              <h5 class="text-right"><span aria-hidden="true"></span> October 2018 - Present</h5>
+            </div>
+          </div>
+          <h5><span class="badge badge-secondary">Storekeeper</span></h5>
+          
+          <ul>
+            <li>Maintain receipts, records, and withdrawals of the stockroom</li>
+            <li>returning, packing, pricing, and labeling supplies</li>
+            <li>Inspect deliveries for damage or discrepancies; report those to accounting for reimbursements and record keeping</li>
+			<li>Rotate stock and coordinate the disposal of surpluses</li>
+			<li>Ensure adequate record keeping and manage all documentation to confirm proper stock levels and maintain inventory control</li>
+			  <li>Monitor stock in the ERP system and stock count if it is matching</li>
+          </ul>
+			<h5><span class="badge badge-secondary">Procurement</span></h5>
+			<ul>
+				<li>Prepare purchase request and purchase order in the ERP system and send PO’s copies to suppliers and to departments originating requests</li>
+				<li>Determine if inventory quantities are sufficient for needs, ordering more materials when necessary</li>
+				<li>Respond to customer and supplier inquiries about order status, changes, or cancellations</li>
+				<li>Perform buying duties when necessary</li>
+				<li>Contact suppliers in order to schedlie or expedite deliveries and to resolve shortages, missed or late deliveries, and other problems</li>
+				<li>Review requisition orders in order to verify accuracy, terminology, and specifications</li>
+				<li>Prepare, maintain, and review purchasing files, reports and price lists</li>
+				<li>Compare prices, specifications, and delivery dates in order to determine the best bid among potential suppliers</li>
+				<li>Track the status of requisitions, contracts, and orders</li>
+				<li>Calcliate costs of orders, and charge or forward invoices to appropriate accounts</li>
+				<li>Check shipments when they arrive to ensure that orders have been filled correctly and that goods meet specifications</li>
+				<li>Compare suppliers' bills with bids and purchase orders in order to verify accuracy</li>
+				<li>Receive invoices for payment</li>
+				<li>Locate suppliers, using sources such as catalogs and the internet, and interview them to gather information about products to be ordered</li>
+
+			</ul>
+			<h5><span class="badge badge-secondary">Customer care</span></h5>
+			<ul>
+				<li>Log all customer complaints and forward the complain to specific supervisor</li>
+				<li>Monitor complaints if it was attended or not and closing the complaints in the job is already finish</li>
+			</ul>
+
+			
+
+        </div>
+        <div class="col-md-6 col-sm-12">
+          <div class="row">
+            <div class="col-5">
+              <h4>Synchronic Systems Corporation </h4>
+	
+            </div>
+            <div class="col-6">
+              <h5 class="text-right"><span aria-hidden="true"></span> August 2010 - October 15 2017</h5>
+            </div>
+          </div>
+        	
+<h5><span class="badge badge-secondary"> Call Center System Admin </span></h5>
+<ul>
+<li>Provide level 1 support to agents in the call center. Troubleshoot basic computer desktop and application related issues</li>
+<li>Operate and configure the IVR system for daily operations; support and configure database schedule changes related to call center data. Modify the IVR configurations, database and recordings based on requirements changes from the scheduling department. </li>
+<li>Troubleshoot problems arising from the malfunction of the servers and applications in the Call Center. </li>
+<li>Act as the focal point of contact for reporting tickets to vendors and equipment manufacturers. Follow up with vendors to insure issues are resolved. </li>
+<li>Mange the Goautodial applications used for call and screen recording in the call center. </li>
+<li>Customize and generate reports using SQL from an Oracle database. </li>
+<li>Interface with the IT department for supporting server and application upgrades and other technical issues related to the call center. </li>
+<li>Support the introduction of new technology by working with contractors and project managers that are implementing new technology or introducing new or enhanced applications in the call center. </li>
+<li>Create, change, and delete user accounts per request, both for the PBX switch and the recording applications. </li>
+<li>Insure proper operation of all servers and applications in the call center, including the VoIP switch, the Goautodial recording applications, the call history application and the NAS storage devices. </li>
+<li>Monitor the application of OS and application patches and upgrades on a regular basis, and identify issues. Support the introduction of new services in the call center as needed such as chat or email services. </li>
+</ul> 
+	
+<h5><span class="badge badge-secondary"> System and Network Administrator </span></h5>
+<ul>
+<li>Provide technical support to the client’s datacenter on-premise and cloud infrastructure by monitoring performance, pro-active maintenance, and troubleshooting of hardware and software issues as necessary. </li>
+<li>Resolve all complex technical issues pertaining to servers, storage, WAN and LAN connectivity, routers, firewalls, and security in accordance to the established SLAs. </li>
+<li>Take complete ownership of incidents, problem, change requests and client interactions in a timely manner to ensure that all service level objectives are met. </li>
+<li>Responsible for the administration and support of the Cloud Backup system. </li>
+<li>Responsible for monthly Patch Management and Virus Protection of all environment end-points and servers. </li>
+<li>Responsible for the administration and support of the Network Infrastructure Monitoring solution. </li>
+<li>Provide remote control support for all servers in the environment using our Remote-Control Management system. </li>
+<li>Work as part of the Technical Support Services Center team to meet identified goals and objectives. </li>
+<li>Coordinate and communicate with third party escalation resources, clients and various internal stakeholders during planned or unplanned outages. </li>
+<li>Communicate effectively with clients and staff at all levels. </li>
+<li>Responsible second level VPN support to ensure that all remote clients can access our network remotely. </li>
+<li>Enforce company process, guidelines and procedures. </li>
+<li>Work with Dispatch to produce and maintain technical documentation. </li>
+</ul> 
+	
+<h5><span class="badge badge-secondary"> Document Controller </span></h5>
+<ul>
+<li>Controlling the numbering, filing, sorting and retrieval of electronically stored or hard copy documentation produced by technical teams, projects or departments in a timely, accurate and efficient manner. </li>
+<li>Collect soft and hard copy documents, scan and upload documents in the system as per the established procedures and ensure that records are captured and managed according to relevant standards and best business practices</li>
+<li>Receive all technical documents such as drawings, reports, specifications etc. in order to register them in the system</li>
+<li>Maintain controlled documentation using Document Management System configuration including conducting day-to-day document quality checks, maintenance and version control of electronic and paper documents and monitoring electronic folder structure to ensure alignment to the organization's requirements</li>
+<li>Provide notification of updates as required to registered document users, which may include issuing controlled hard copies and providing email notification updates in order to ensure that users are provided with the latest document versions</li>
+<li>Maintains the Document Control Library Storage as well as the retrieval of operational documentation</li>
+<li>Provide notification of updates as required to registered documents users which may include issuing controlled hard copy and provide email notification of the update in order to ensure with the users and provide with the latest documents</li>
+</ul>
+ 	
+<h5><span class="badge badge-secondary"> Administrative Coordinator</span></h5>
+<ul>
+<li>Maintains administrative workflow by studying methods; implementing cost reductions; developing reporting procedures. </li>
+<li>Creates and revises systems and procedures by analyzing operating practices; studying utilization of micro-computer and software technologies; evaluating personnel and technological requirements; implementing changes. </li>
+<li>Develops administrative staff by providing information, educational opportunities, and coaching. </li>
+<li>Resolves administrative problems by analyzing information; identifying and communication solutions. </li>
+<li>Maintains rapport with customers, managers, and employees by arranging continuing contacts; researching and developing new services and methods; setting priorities; resolving problem situations. </li>
+<li>Maintains suggestion system by directing and controlling administrative technical aspects in accordance with management directives. </li>
+<li>Provides information by answering questions and requests. </li>
+<li>Receive all technical documents such as drawings, reports, specifications etc. in order to register them in the system</li>
+<li>Maintains continuity of work operations by documenting and communicating needed actions to management; discovering irregularities; determining continuing needs. </li>
+<li>Guides employee actions by researching, developing, writing, and updating administrative policies, procedures, methods, and guidelines; communicating developments to management. </li>
+<li>Completes administrative projects by identifying and implementing new technology and resources; redesigning systems; recommending re-deployment of designated resources. </li>
+<li>Accomplishes department and organization mission by completing related results as need. </li>
+</ul>
+
+        </div>
+      </div>
+      <hr>
+      <h2>Portfolio</h2>
+      <hr>
+      <div class="container">
+        <div class="row text-center">
+          <div class="col-sm-4 col-12 p-0"><iframe style="width: 75vw;height: 100vh;position:relative;" src="https://web.archive.org/web/20170922225713/http://synchronicsystems.com/"></iframe></div>
+        </div>
+        <div class="row text-center">
+        </div>
+      </div>
+      <hr>
+      <h2>Contact</h2>
+      <hr>
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-8  col-12 jumbotron">
+            <form>
+              <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" class="form-control" id="name" name="name" placeholder="Name">
+              </div>
+              <div class="form-group">
+                <label for="email">E-Mail</label>
+                <input type="email" class="form-control" id="email" name="email" placeholder="Email Address" aria-describedby="emailHelp">
+                <span id="emailHelp" class="form-text text-muted" style="display: none;">Please enter a valid e-mail address.</span>
+              </div>
+              <div class="form-group">
+                <label for="message">Message</label>
+                <textarea rows="10" cols="100" class="form-control" id="message" name="message" placeholder="Message" aria-describedby="messageHelp"></textarea>
+                <span id="messageHelp" class="form-text text-muted" style="display: none;">Please enter a message.</span>
+              </div>
+              <div class="text-center">
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <hr>
+      <footer class="text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <p>Copyright © MyWebsite. All rights reserved.</p>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-4.3.1.js"></script>
+  </body>
+</html>
